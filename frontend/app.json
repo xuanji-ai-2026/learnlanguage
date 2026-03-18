@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "汉越语学习",
+    "slug": "han-vietnamese-learning",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4CAF50"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hanyu.vietnamese.learning"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#4CAF50"
+      },
+      "package": "com.hanyu.vietnamese.learning"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
